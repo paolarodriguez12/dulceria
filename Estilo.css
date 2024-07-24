@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100; 1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat Alternates", sans-serif ;
+    font-weight: 100 ;
+    font-weight: bolder;
+    font-style: normal;
+    color: rgb(196, 131, 131);
+
+}
+header{
+    margin-bottom: 10px;
+    background-color: rgb(248, 207, 229);
+}
+.logo img {             width: 200px;
+ margin-bottom: 00px;
+}
+h1 {   margin-left: 20px;
+
+margin-bottom: 20px; }
+p {  width: 800px  }
+.color{ 
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.993);
+    margin: 0;
+}
+.color img {
+    width: 200px;
+}
+.color a{
+    margin: 30px;
+    text-decoration: none;
+}
+.cont1 img {
+    width: 300px;
+}
+header{
+   display: flex;
+    /*justify-content: center;*/
+   align-content: center;
+    align-items: center;
+    
+}
+
+.logo{
+    align-items: flex-start;
+    border: 2px color rgba(243, 239, 239, 0.925)solid;
+    
+}
+.Nombre{
+    border: 20px color rgb(255, 254, 255) solid;
+    display: flex;
+    justify-self: unset;
+    align-content: center;
+    align-items: center;
+    min-width: 500px;
+}
